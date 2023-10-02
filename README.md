@@ -1,6 +1,6 @@
 # frases_do_dia
 
-A new Flutter project.
+Projeto de treino de conhecimentos
 
 ## Getting Started
 
